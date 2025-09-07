@@ -1,0 +1,9 @@
+{
+    "username": "muthu pandi",
+    "password": "StrongP@ssw0rd123",
+    "first_name": "Muthu",
+    "last_name": "Doe",
+    "email": "muthu@example.com",
+    "phone": "9876543212",
+    "address": "123 Main Street, City, Country"
+}
